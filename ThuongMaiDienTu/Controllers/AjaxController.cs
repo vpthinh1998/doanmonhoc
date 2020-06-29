@@ -89,7 +89,6 @@ namespace ThuongMaiDienTu.Controllers
         }
 
 
-     
         public JsonResult GetProductInfo(int id)
         {
             if (Session["login"] is null) return null;

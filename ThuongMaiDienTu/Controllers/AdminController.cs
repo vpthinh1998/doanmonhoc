@@ -80,13 +80,6 @@ namespace ThuongMaiDienTu.Controllers
             return View(order);
         }
 
-     
-
-      
-
-
-
-
         public ActionResult OrderWaiting()
         {
          
